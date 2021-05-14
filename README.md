@@ -1,3 +1,7 @@
+# Dr-Murphy 
+## An AI enabled web app used to predict heart and lung diseases.
+## CORS enabled to allow cross origin resource sharing in case the browser blocks the request. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
